@@ -1,4 +1,3 @@
-
 import csv
 import requests
 from lxml import html
